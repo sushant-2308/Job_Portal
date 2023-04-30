@@ -55,6 +55,6 @@
 Created a Simple job portal project in which I have created a model of job details and description and added some of the custom queries. Using that custom queries I have used many of the get mapping method to fetch my data in different ways like by firstName lastName age etc.
 
 ### How to use in your system?
- - Just Simply clone this reposit
+ - Just Simply clone this repository
  - Start your server
  - Perform operations 
